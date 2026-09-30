@@ -6,7 +6,7 @@ Vision AI + Embeddings + Smart Matching + Guard Logic + Evaluation
 
 ---
 
-## ⚡ Quick Start (30 seconds)
+## ⚡ Quick Start
 
 ### macOS/Linux
 ```bash
@@ -22,8 +22,6 @@ run.bat
 ```
 
 Then open browser: **http://localhost:8000**
-
-✅ **DONE!** You have a working interface.
 
 ---
 
@@ -287,12 +285,6 @@ This capstone teaches:
 
 ---
 
-## 📝 For Your Resume
-
-> "Built and deployed a production-grade AI application with interactive web interface. Integrated vision models (Gemini Flash), semantic embeddings (768D vectors), and intelligent matching with safety guards that refuse low-confidence predictions. Implemented evaluation metrics measuring 87% top-1 precision. Complete full-stack: backend (Python), frontend (HTML/CSS/JS), all 5 AI phases integrated."
-
----
-
 ## ✅ Success Checklist
 
 After running:
@@ -306,7 +298,7 @@ After running:
 - [ ] Can see guard logic (some rejected)
 - [ ] Can calculate precision (shows ~87%)
 
-If all ✅, you're done!
+If all ✅, done!
 
 ---
 
